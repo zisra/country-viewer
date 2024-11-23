@@ -1,0 +1,198 @@
+                          name       NIQ    SDI
+1                  Singapore 108.70000  1.687
+2                      Japan 105.89700  1.536
+3                     Taiwan 105.20000  1.320
+4        Hong Kong SAR China 104.64660  1.681
+5            Macao SAR China 103.90000  1.275
+6                South Korea 103.84000  1.460
+7                    Estonia 101.86000  1.314
+8              Liechtenstein 101.42791  1.595
+9                     Canada 100.88000  1.425
+10                   Finland 100.86000  1.638
+11                     China 100.20000  0.612
+12               Netherlands 100.07800  1.732
+13               Switzerland  99.52625  1.728
+14                   Ireland  99.10000  1.604
+15            United Kingdom  99.07998  1.510
+16                 Australia  98.62232  1.522
+17                   Germany  98.54290  1.659
+18                   Vietnam  98.52000  0.172
+19                    Sweden  98.40867  1.698
+20                   Czechia  98.28121  1.354
+21                   Austria  98.26110  1.644
+22               New Zealand  98.14656  1.340
+23                   Belgium  98.10623  1.482
+24                   Denmark  98.00048  1.721
+25                    Poland  97.81798  1.037
+26                  Slovenia  97.74377  1.422
+27                    Russia  97.69036  0.625
+28             United States  97.68221  1.344
+29                   Hungary  97.40508  1.039
+30                    Norway  97.39731  1.698
+31                    France  96.88265  1.503
+32                    Latvia  96.76777  1.032
+33                   Iceland  96.71545  1.658
+34                Luxembourg  96.63198  1.620
+35                     Italy  96.21024  1.350
+36                  Slovakia  96.06727  1.035
+37                 Lithuania  95.88660  1.059
+38                   Belarus  95.80318  0.638
+39                     Spain  95.60833  1.474
+40                   Croatia  95.51562  1.052
+41                  Portugal  95.13447  1.323
+42                    Israel  93.94738  1.398
+43                  Mongolia  93.37000 -0.141
+44                     Malta  92.89953  1.444
+45                    Greece  92.78280  1.045
+46                    Cyprus  92.69565  1.162
+47                   Ukraine  92.30848  0.211
+48                  Bulgaria  91.52844  0.670
+49                    Serbia  91.27537  0.657
+50                 Greenland  90.66979  0.090
+51                    Turkey  89.75437  0.486
+52                   Bermuda  89.50237  1.008
+53                     Palau  89.28701  0.012
+54              Cook Islands  89.16000     NA
+55                  Malaysia  89.00069  0.697
+56                Kazakhstan  88.78659  0.441
+57                   Armenia  88.63293  0.328
+58                     Chile  88.28733  0.725
+59                   Uruguay  88.27624  0.679
+60                   Moldova  88.13262  0.205
+61      Bosnia & Herzegovina  88.12702  0.421
+62                     Samoa  88.00000 -0.120
+63                      Cuba  87.90000  0.156
+64               North Korea  87.90000  0.606
+65      United Arab Emirates  87.77320  1.003
+66                  Thailand  87.55610  0.499
+67                  Suriname  87.46000 -0.167
+68                   Romania  87.33750  0.742
+69                   Bahrain  87.31846  0.885
+70         Trinidad & Tobago  87.01091  0.271
+71                 Mauritius  86.83461  0.354
+72                Montenegro  86.74884  0.650
+73          Marshall Islands  86.50000 -0.431
+74                Costa Rica  85.98468  0.505
+75                 Argentina  85.74974  0.486
+76                Azerbaijan  85.71742  0.108
+77                    Mexico  85.66327  0.280
+78                    Brunei  85.56828  0.872
+79                   Georgia  85.04488  0.280
+80                      Laos  84.77000 -0.658
+81                    Kuwait  84.26000  0.932
+82                    Jordan  84.14224  0.232
+83                  Cambodia  84.10000 -0.578
+84                   Albania  83.97757  0.280
+85                Uzbekistan  83.95250  0.040
+86                      Iran  83.93070  0.080
+87                     Qatar  83.66712  1.078
+88                    Brazil  83.57976  0.227
+89           North Macedonia  83.43619  0.415
+90                   Tunisia  83.29771  0.011
+91           Myanmar (Burma)  83.23217 -0.665
+92                Tajikistan  83.02566 -0.386
+93               Puerto Rico  82.52460  0.629
+94        Dominican Republic  82.41000 -0.103
+95                      Peru  82.37179  0.006
+96                  Colombia  82.30471  0.135
+97                      Iraq  82.26880 -0.319
+98                   Ecuador  82.04000 -0.045
+99                Seychelles  81.97321  0.461
+100                    Libya  81.95746 -0.152
+101                Indonesia  81.89600 -0.059
+102                Venezuela  81.82911 -0.420
+103                  Lebanon  81.82387  0.152
+104                 Barbados  81.76118  0.487
+105                  Bahamas  81.55014  0.317
+106                  Bolivia  81.37958 -0.427
+107                     Oman  81.27311  0.530
+108                     Fiji  81.27075  0.020
+109             Turkmenistan  81.26000  0.049
+110                    Egypt  81.25500 -0.040
+111 Northern Mariana Islands  81.16000     NA
+112  Palestinian Territories  81.04223 -0.654
+113                    Tonga  80.78973 -0.141
+114                  Algeria  80.65844 -0.063
+115               Kyrgyzstan  80.51000  0.011
+116                 Kiribati  80.45353 -0.957
+117             Saudi Arabia  80.30492  0.675
+118              El Salvador  79.87000 -0.103
+119                  Jamaica  79.82000  0.038
+120                 Eswatini  79.78134 -0.967
+121                Sri Lanka  79.73877  0.109
+122                   Panama  79.65215  0.360
+123                    Syria  79.31904 -0.642
+124                 Honduras  79.30000 -0.490
+125                Guatemala  78.78000 -0.502
+126                 Paraguay  78.76518  0.051
+127                    Gabon  78.61646 -0.693
+128              Philippines  78.13921 -0.031
+129                     <NA>  78.03664  0.437
+130                Nicaragua  77.94700 -0.376
+131               Bangladesh  77.71162 -0.611
+132               Madagascar  77.58558 -1.512
+133                    Kenya  77.51551 -1.119
+134                 Maldives  77.26000  0.226
+135              Timor-Leste  77.08136 -0.926
+136                   Zambia  76.99760 -1.317
+137                    Nepal  76.97770 -0.699
+138                  Burundi  76.81073 -1.526
+139                    India  76.49442 -0.561
+140                   Bhutan  76.39628 -0.349
+141                    Sudan  76.04285 -1.217
+142                 Dominica  75.83500 -0.022
+143              Afghanistan  75.70000 -1.541
+144                  Morocco  75.61289 -0.142
+145        Antigua & Barbuda  75.51261  0.323
+146                   Guyana  75.43081 -0.178
+147          Solomon Islands  75.31068 -1.171
+148                  Comoros  74.81362 -1.141
+149                   Rwanda  74.76252 -1.225
+150                  Grenada  74.72005  0.107
+151                 Tanzania  74.60294 -1.220
+152               Mozambique  74.43618 -1.488
+153                 Botswana  73.93014 -0.612
+154                    Nauru  73.56945 -0.452
+155                  Vanuatu  73.35805 -0.843
+156               Mauritania  73.11243 -1.038
+157                    Haiti  72.74000 -1.401
+158                  Eritrea  72.28268 -1.482
+159                 Zimbabwe  72.14790 -1.293
+160                   Uganda  71.94815 -1.385
+161                  Senegal  71.82068 -0.956
+162         Papua New Guinea  71.76660 -1.382
+163                  Lesotho  71.34056 -1.314
+164               Cape Verde  71.26000 -0.342
+165                   Guinea  70.96785 -1.403
+166                 Pakistan  70.86444 -0.993
+167             South Africa  70.76381 -0.236
+168                     Togo  70.53387 -1.295
+169                  Nigeria  70.25471 -1.183
+170             Burkina Faso  69.83834 -1.382
+171                St. Lucia  69.73834  0.088
+172        Equatorial Guinea  69.66700 -0.987
+173 St. Vincent & Grenadines  69.60953  0.012
+174                  Namibia  69.27155 -0.814
+175      Congo - Brazzaville  69.08649 -1.285
+176                    Benin  68.73842 -1.335
+177 Central African Republic  68.25215 -1.922
+178                   Angola  68.18462 -1.280
+179                 Cameroon  68.07071 -1.184
+180                 Ethiopia  67.94987 -1.361
+181                  Somalia  67.82319 -1.707
+182                   Belize  67.76590 -0.231
+183                    Yemen  67.69626 -1.319
+184                 Djibouti  67.41256 -1.096
+185                  Liberia  67.28394 -1.547
+186            Côte d’Ivoire  66.46849 -1.112
+187         Congo - Kinshasa  65.95386 -1.651
+188                     Mali  65.83521 -1.382
+189                     Chad  65.78462 -1.781
+190              South Sudan  65.74046 -1.842
+191            Guinea-Bissau  64.26000 -1.574
+192                   Malawi  64.08968 -1.326
+193                    Ghana  63.98964 -0.782
+194                   Gambia  63.70000 -1.189
+195                    Niger  62.43208 -1.631
+196             Sierra Leone  62.36289 -1.567
+197      São Tomé & Príncipe  62.26000 -0.825
