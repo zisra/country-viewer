@@ -7,6 +7,7 @@ import {
 	getData,
 	loadConditionalData,
 } from './data/countries.ts';
+import { Map } from './components/ Map.tsx';
 
 const CountryFlag = ({ countryData }: { countryData: Country }) => {
 	return (
@@ -41,14 +42,17 @@ function App() {
 
 	return (
 		<>
-			{countries.countries.map((country) => {
-				return (
-					<CountryFlag
-						key={country.ISO31161Data.alpha2}
-						countryData={country}
-					/>
-				);
-			})}
+			<Map format={'mercator'} />
+			<div>
+				{countries.countries.map((country) => {
+					return (
+						<CountryFlag
+							key={country.ISO31161Data.alpha2}
+							countryData={country}
+						/>
+					);
+				})}
+			</div>
 		</>
 	);
 }
